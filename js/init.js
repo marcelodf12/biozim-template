@@ -17,7 +17,12 @@ skel.init({
 		},
 		'tablet': {
 			range: '640-999',
-			containers: 640
+			containers: 640,
+			containers: 'fluid',
+			grid: {
+				collapse: true,
+				gutters: 10
+			}
 		},
 		'desktop': {
 			range: '1000-',
