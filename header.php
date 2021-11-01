@@ -35,7 +35,7 @@
 			</div>
 		</div>
 	<!-- Header -->
-    <img id="logoImgMobile" src="<?php echo get_bloginfo('template_url'); ?>/images/logo.png" alt="" width: 260px;>
+    <img id="logoImgMobile" src="<?php echo get_bloginfo('template_url'); ?>/images/logo.png" alt="" width: 200px;>
 
     <!-- Banner -->
 		<div id="banner">	
