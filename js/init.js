@@ -7,7 +7,7 @@ skel.init({
 	},
 	breakpoints: {
 		'mobile': {
-			range: '-719',
+			range: '-639',
 			lockViewport: true,
 			containers: 'fluid',
 			grid: {
@@ -15,9 +15,13 @@ skel.init({
 				gutters: 10
 			}
 		},
+		'tablet': {
+			range: '640-999',
+			containers: 640
+		},
 		'desktop': {
-			range: '720-',
-			containers: 720
+			range: '1000-',
+			containers: 1000
 		}
 	}
 }, {

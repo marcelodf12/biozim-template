@@ -487,13 +487,6 @@
 		background: #fff;
 		padding-top: 0px !important;
 	}
-
-	#main
-	{
-		border-top: 1px solid;
-		border-color: rgba(0,0,0,.2);
-		/*margin-top: 300px !important;*/
-	}
 	
 	.sidebar header h2
 	{
